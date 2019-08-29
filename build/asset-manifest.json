@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aefd6360.chunk.css",
+    "main.js": "/static/js/main.fa7c27cb.chunk.js",
+    "main.js.map": "/static/js/main.fa7c27cb.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.999a64ce.js",
+    "runtime~main.js.map": "/static/js/runtime~main.999a64ce.js.map",
+    "static/js/2.a21bfe28.chunk.js": "/static/js/2.a21bfe28.chunk.js",
+    "static/js/2.a21bfe28.chunk.js.map": "/static/js/2.a21bfe28.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b19ba6e4aee8629ce4624952d3e7386c.js": "/precache-manifest.b19ba6e4aee8629ce4624952d3e7386c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.aefd6360.chunk.css.map": "/static/css/main.aefd6360.chunk.css.map",
+    "static/media/App.css": "/static/media/mac-glasses.7d2fa3fb.jpg",
+    "static/media/progress.png": "/static/media/progress.85bac015.png",
+    "static/media/project-report-20.png": "/static/media/project-report-20.c4719db8.png",
+    "static/media/project-report-40.png": "/static/media/project-report-40.83ef92de.png",
+    "static/media/project-report-60.png": "/static/media/project-report-60.cbe9c19c.png",
+    "static/media/project-report-90.png": "/static/media/project-report-90.bd976312.png",
+    "static/media/project-report-95.png": "/static/media/project-report-95.a6961d51.png"
+  }
+}

@@ -1,63 +1,92 @@
-.mycontainer{
-  margin: 1.66% 1.66%;
-  background-color: #d1e1f1;
-  border-radius: 1.125rem;
-  }
-  .myBody{
+.mycontainer {
     margin: 1.66% 1.66%;
+    background-color: #d1e1f1;
     border-radius: 1.125rem;
-    }
-  .btnStyle{
-      background-color: tomato;
-      border: hidden;
-      padding: 5px 9px;
-      border-radius: 50%;
-      cursor: pointer;
-      float: right;
-  }
-  .tabs{
-      border-radius: 1.125rem;
-      background-color: lightcoral;
-      cursor: pointer;
-  }
-  .fit {
-      max-width: 100%;
-      margin-bottom: 1.66%;
-      border-radius: 1.125rem;
-  }
-  .remove-btn {
-      margin-right: 0.5rem;
-  }
-  
-  .fade-enter {
-      opacity: 0.01;
-  }
-  
-  .fade-enter-active {
-      opacity: 1;
-      transition: opacity 1000ms ease-in;
-  }
-  
-  .fade-exit {
-      opacity: 1;
-  }
-  
-  .fade-exit-active {
-      opacity: 0.01;
-      transition: opacity 1000ms ease-in;
-  }
-  .mycontainer {
-      margin: 1.66% 1.66% 1.66% 1.66%;
-      padding: 0 1rem;
-  }
-  .btn {
-      display: inline-block;
-      border: none;
-      background: #555;
-      color: #fff;
-      padding: 7px 20px;
-      cursor: pointer;
-  }
-  .btn:hover {
-      background: #666;
-  }
+}
+
+.myBody {
+    margin-right: 1.67%;
+    margin-left: 1.67%;
+    border-radius: 1.125rem;
+}
+
+.btnStyle {
+    background-color: tomato;
+    border: hidden;
+    padding: 5px 9px;
+    border-radius: 50%;
+    cursor: pointer;
+    float: right;
+}
+
+.tabs {
+    border-radius: 1.125rem;
+    background-color: lightcoral;
+    cursor: pointer;
+}
+
+.fit {
+    max-width: 100%;
+    margin-bottom: 1.66%;
+    border-radius: 1.125rem;
+}
+
+.remove-btn {
+    margin-right: 0.5rem;
+}
+
+.fade-enter {
+    opacity: 0.01;
+}
+
+.fade-enter-active {
+    opacity: 1;
+    transition: opacity 1000ms ease-in;
+}
+
+.fade-exit {
+    opacity: 1;
+}
+
+.fade-exit-active {
+    opacity: 0.01;
+    transition: opacity 1000ms ease-in;
+}
+
+.mycontainer {
+    margin: 1.66% 1.66% 1.66% 1.66%;
+    padding: 0 1rem;
+}
+
+.btn {
+    display: inline-block;
+    border: none;
+    background: #555;
+    color: #fff;
+    padding: 7px 20px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background: #666;
+}
+
+.home {
+    background: url(../image/mac-glasses.jpg) no-repeat;
+    min-height: 770px;
+    position: relative;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+.h2-home {
+    margin-right: 30px;
+    padding-top: 280px;
+    font-family: Helvetica, sans-serif;
+    font-size: 70px;
+    text-align: center;
+    font-weight: 500;
+    color: #0111119d;
+}

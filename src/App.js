@@ -5,17 +5,17 @@ import Footer from './components/layout/Footer';
 import Planner from './components/layout/Planner';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import './assets/styles/App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import './assets/styles/bootstrap.css';
 export class App extends Component {
   
   render() {
     return (
       <Router >
-        <Header/><br/>
+        <Header/>
           <Switch>
-            <Route  exact path='/' component={Home}/>
+            <Route exact path='/' component={Home}/>
             <Route path='/planner' component={Planner}/>
-          </Switch><br/>
+          </Switch>
           <Footer/>
       </Router>
     );
